@@ -51,7 +51,7 @@ extern int  mtos_printk(const char *p_format, ...);
 #define SAFEVIEW_NATIVE_TRACE_ERROR_FN                          mtos_printk
 
 /***************************************************************************
- * Internal adaptation layer debug information on / off
+ * Internal adaptation layer debug information on / off vipin saxena
  ***************************************************************************/
 #define SAFEVIEW_NO_TRACES                                      0
 #define SAFEVIEW_ADAPTATION_DEBUG_INFO                          0
